@@ -1,0 +1,902 @@
+.logo {
+	height:144px;
+	width:212px;
+	margin-top:19px;
+	margin-left:0px;
+	margin-top: -15px;
+}
+
+header {
+	position: relative	;
+	right: 250px;
+	left: 250px;
+	width:1018px;
+	height:148px;
+	background-color: white;
+}
+
+main {
+	position: relative;
+	right: 250px;
+	left: 250px;
+	width:1018px;
+	height:3300px;
+	background-color: white;
+}
+
+.foot {
+	width: 1018px;
+	height: 500px;
+	position: relative;
+	right: 250px;
+	left: 250px;
+	box-shadow: 0px 7px 20px 1px #C0C0C0;
+}
+
+body {
+	background: linear-gradient(#F5DEB3, #F08080);
+}
+
+.fbook {
+	position: relative;
+	top: 800px;
+}
+
+.baner {
+	width:1018px;
+	height:320px;
+}
+
+.book {
+	width:205px;
+	height:312px;
+	margin-top:354px;
+}
+
+.textpopular {
+	background-color: FAEADB;
+	padding-left:46px;
+	padding-right:46px;
+	padding-top:26px;
+	padding-bottom:26px;
+	color: 994646;
+	font-family: sans-serif;
+	font-size: 17px;
+	width: 300px;
+	height: 63px;
+}
+
+.spez {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 201px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.spez:hover {
+	background-color: #C0C0C0;
+
+}
+
+.hudoshka {
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 206px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.hudoshka:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.naukova {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 204px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.naukova:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.novinki {
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 199px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.novinki:hover {
+	background-color: #C0C0C0;
+	
+}
+
+
+.detski {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 202px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.detski:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.eBook {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 200px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.eBook:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.textone {
+	position: relative;
+	color: black;
+	top: 40px;
+	left: 210px;
+}
+
+.latka {
+	width: 1018px;
+	height: 80px;
+}
+
+.texttwo {
+    display: block;
+	width: 770px;
+	height: 60px;
+	position: relative;
+	top: 45px;
+	left: 190px;
+	margin-left: 20px;
+}
+
+.druh {
+	position: relative;
+	top: 90px;
+	left: 205px;
+	width: 220px;
+	height: 370spx;
+}
+
+.hollitwo {
+	position: relative;
+	top: 90px;
+	left: 250px;
+	width: 220px;
+	height: 370spx;
+}
+
+.notatkutwo {
+	position: relative;
+	top: 90px;
+	left: 290px;
+	width: 220px;
+	height: 370spx;
+}
+
+.zanr {
+	font-family: sans-serif;
+	font-size: 20px;
+	border: solid 2px silver;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-decoration: none;
+	color: black;
+	position: relative;
+	top: 270px;
+	right: 460px;
+}	
+
+.zanr:hover {
+	color: red;
+	border: solid 2px red;
+}
+
+.spisok {
+	font-family: sans-serif;
+	font-size: 20px;
+	border: solid 2px silver;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-decoration: none;
+	color: black;
+	position: relative;
+	top: 270px;
+	right: 455px;
+}	
+
+.spisok:hover {
+	color: red;
+	border: solid 2px red;
+}
+
+.zvicanimanstri {
+	width: 150px;
+	height: 285px;
+	position: relative;
+	top: 355px;
+	left: 270px;
+}
+
+.balman {
+	width: 150px;
+	height: 280px;
+	position: relative;
+	top: 345px;
+	left: 370px;
+}
+
+.baterflay {
+	position: relative;
+	width: 150px;
+	height: 285px;
+	top: 345px;
+	left: 470px;
+}
+
+.avtori {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 300px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.lendover {
+	width: 190px;
+	height: 280px;
+	position: relative;
+	top: 495px;
+	left: 270px;
+}
+
+.menfreia {
+	width: 150px;
+	height: 280px;
+	position: relative;
+	top: 495px;
+	left: 370px;
+}
+
+.platon {
+	position: relative;
+	width: 150px;
+	height: 285px;
+	top: 495px;
+	left: 470px;
+}
+
+.romantik {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 450px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.jorkska {
+	width: 155px;
+	height: 285px;
+	position: relative;
+	top: 595px;
+	left: 270px;
+}
+
+.kohik {
+	width: 155px;
+	height: 280px;
+	position: relative;
+	top: 595px;
+	left: 370px;
+}
+
+.ostanijpotiah {
+	position: relative;
+	width: 155px;
+	height: 285px;
+	top: 595px;
+	left: 470px;
+}
+
+.historik {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 550px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.posluhajmene {
+	width: 155px;
+	height: 285px;
+	position: relative;
+	top: 695px;
+	left: 270px;
+}
+
+.detektiv {
+	width: 155px;
+	height: 280px;
+	position: relative;
+	top: 695px;
+	left: 370px;
+}
+
+.dimholosiv {
+	position: relative;
+	width: 155px;
+	height: 285px;
+	top: 695px;
+	left: 470px;
+}
+
+.detektivu {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 650px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.kolo {
+	width: 155px;
+	height: 285px;
+	position: relative;
+	top: 795px;
+	left: 270px;
+}
+
+.voroh {
+	width: 155px;
+	height: 280px;
+	position: relative;
+	top: 795px;
+	left: 370px;
+}
+
+.hirurh {
+	position: relative;
+	width: 155px;
+	height: 285px;
+	top: 795px;
+	left: 470px;
+}
+
+.triler {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 750px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.prohrajutvojnu {
+	width: 155px;
+	height: 285px;
+	position: relative;
+	top: 870px;
+	left: 270px;
+}
+
+.jalegenda {
+	width: 155px;
+	height: 280px;
+	position: relative;
+	top: 870px;
+	left: 370px;
+}
+
+.lialkovod {
+	position: relative;
+	width: 155px;
+	height: 285px;
+	top: 870px;
+	left: 470px;
+}
+
+.fantast {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 820px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.zvicanimanstritwo {
+	width: 155px;
+	height: 285px;
+	position: relative;
+	top: 970px;
+	left: 270px;
+}
+
+.rozpalumene {
+	width: 175px;
+	height: 280px;
+	position: relative;
+	top: 970px;
+	left: 370px;
+}
+
+.vidblusk {
+	position: relative;
+	width: 155px;
+	height: 285px;
+	top: 970px;
+	left: 470px;
+}
+
+.fentezi {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 900px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.stancia {
+	width: 155px;
+	height: 285px;
+	position: relative;
+	top: 1050px;
+	left: 270px;
+}
+
+.zaharberkut {
+	width: 155px;
+	height: 280px;
+	position: relative;
+	top: 1050px;
+	left: 370px;
+}
+
+.nichulisaboni {
+	position: relative;
+	width: 155px;
+	height: 285px;
+	top: 1050px;
+	left: 470px;
+}
+
+.klasik {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 1000px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.blueperiod {
+	width: 190px;
+	height: 285px;
+	position: relative;
+	top: 1150px;
+	left: 270px;
+}
+
+.dnivztoboju {
+	width: 185px;
+	height: 280px;
+	position: relative;
+	top: 1150px;
+	left: 345px;
+}
+
+.trojandovisade {
+	position: relative;
+	width: 175px;
+	height: 285px;
+	top: 1150px;
+	left: 410px;
+}
+
+.komiks {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 1100px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.textstranici {
+	position: relative;
+	top: 1200px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 20px;
+	opacity: 0.6;
+}
+
+.textstranicitwo {
+	position: relative;
+	top: 1150px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+.textstranicithree {
+	position: relative;
+	top: 1130px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 20px;
+	opacity: 0.6;
+}
+
+.textstranicifour {
+	position: relative;
+	top: 1100px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+.bigspisok {
+	position: relative;
+	top: 1100px;
+	font-family: sans-serif;
+	margin-left: 30px;
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+.textstranicifive {
+	position: relative;
+	top: 1070px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+.textstranicisix {
+	position: relative;
+	top: 1070px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 20px;
+	opacity: 0.6;
+}
+
+.textstraniciseven {
+	position: relative;
+	top: 1060px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+
+
+.hudoznia {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 300px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.tilov {
+	width: 160px;
+	height: 285px;
+	position: relative;
+	top: 345px;
+	left: 260px;
+}
+
+.koshic {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 345px;
+	left: 360px;
+}
+
+.hviliaudaci {
+	position: relative;
+	width: 160px;
+	height: 285px;
+	top: 345px;
+	left: 460px;
+}
+
+.jalegendaelektro {
+	width: 160px;
+	height: 285px;
+	position: relative;
+	top: 345px;
+	left: 260px;
+	margin-top: 50px;
+}
+
+.tihezitia {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 345px;
+	left: 360px;
+	margin-top: 50px;
+}
+
+.narecena {
+	position: relative;
+	width: 160px;
+	height: 285px;
+	top: 345px;
+	left: 460px;
+	margin-top: 50px;
+}
+
+
+
+
+
+
+
+.prikladni {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 400px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.hanelektro {
+	width: 160px;
+	height: 285px;
+	position: relative;
+	top: 445px;
+	left: 260px;
+}
+
+.smerteleftro {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 445px;
+	left: 360px;
+}
+
+.peremozecelektro {
+	position: relative;
+	width: 160px;
+	height: 285px;
+	top: 445px;
+	left: 460px;
+}
+
+.putania {
+	width: 160px;
+	height: 285px;
+	position: relative;
+	top: 445px;
+	left: 260px;
+	margin-top: 50px;
+}
+
+.aktelektro {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 445px;
+	left: 360px;
+	margin-top: 50px;
+}
+
+.bazajeelektro {
+	position: relative;
+	width: 160px;
+	height: 285px;
+	top: 445px;
+	left: 460px;
+	margin-top: 50px;
+}
+
+
+
+
+
+
+.detskielektro {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 500px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.bonzone {
+	width: 160px;
+	height: 285px;
+	position: relative;
+	top: 545px;
+	left: 260px;
+}
+
+.bonztwo {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 545px;
+	left: 360px;
+}
+
+.bonzthree {
+	position: relative;
+	width: 160px;
+	height: 285px;
+	top: 545px;
+	left: 460px;
+}
+
+.bonzfour {
+	width: 160px;
+	height: 285px;
+	position: relative;
+	top: 545px;
+	left: 260px;
+	margin-top: 50px;
+}
+
+.iklo {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 545px;
+	left: 360px;
+	margin-top: 50px;
+}
+
+.holms {
+	position: relative;
+	width: 160px;
+	height: 285px;
+	top: 545px;
+	left: 460px;
+	margin-top: 50px;
+}

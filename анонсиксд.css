@@ -1,0 +1,560 @@
+
+.logo {
+	height:144px;
+	width:212px;
+	margin-top:19px;
+	margin-left:0px;
+	margin-top: -15px;
+}
+
+header {
+	position: relative	;
+	right: 250px;
+	left: 250px;
+	width:1018px;
+	height:148px;
+	background-color: white;
+}
+
+main {
+	position: relative;
+	right: 250px;
+	left: 250px;
+	width:1018px;
+	height:14500px;
+	background-color: white;
+}
+
+body {
+	background: linear-gradient(#F5DEB3, #F08080);
+}
+
+.foot {
+	width: 1018px;
+	height: 500px;
+	position: relative;
+	right: 250px;
+	left: 250px;
+	box-shadow: 0px 7px 20px 1px #C0C0C0;
+}
+
+.fbook {
+	position: relative;
+	top: 800px;
+}
+
+.baner {
+	width:1018px;
+	height:320px;
+}
+
+.book {
+	width:205px;
+	height:312px;
+	margin-top:354px;
+}
+
+.textpopular {
+	background-color: FAEADB;
+	padding-left:46px;
+	padding-right:46px;
+	padding-top:26px;
+	padding-bottom:26px;
+	color: 994646;
+	font-family: sans-serif;
+	font-size: 17px;
+	width: 300px;
+	height: 63px;
+}
+
+.spez {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 201px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.spez:hover {
+	background-color: #C0C0C0;
+
+}
+
+.hudoshka {
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 206px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.hudoshka:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.naukova {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 204px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.naukova:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.novinki {
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 199px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.novinki:hover {
+	background-color: #C0C0C0;
+	
+}
+
+
+.detski {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 202px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.detski:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.eBook {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 200px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.eBook:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.anonsibaner{
+	position: relative;
+	top: 70px;
+	left: 205px;
+	right: 20px;
+	width: 797;
+}
+
+.textone {
+	position: relative;
+	left: 210px;
+	top: 50px;
+	font-size: 25px;
+}
+
+.textthree {
+	position: relative;
+	left: 205px;
+	top: 80px;
+	margin-right: 220px;
+	font-family: sans-serif;
+	opacity: 0.9;
+}	
+
+
+
+
+
+
+.spalah {
+	position: relative;
+	top: 100px;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.piatrokov {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.shafer {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.judi {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.dijavol {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.hudzik {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.heroji {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.anna {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.majak {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.diahnoz {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.memuar {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.polumia {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.duet {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.spisokdlia {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.slova {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.dvorecki {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.zahastik {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.zinka {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.povernenia {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.sestra {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.ditazemli {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.kamin {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.vohon {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.musaji {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.newjork {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.motanka {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.korolivstvo {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.pomerla {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.kolesocasu {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.nepravda {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.bohi {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.kradijlimit {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.kradij {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.tini {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.apartamentu {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.ludi {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.naroditisia {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.rozlamana {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.kerisotolimit {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.kerisoto {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.pomsti {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.nord {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.krashe {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.cirk {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.hipoteza {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.misto {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.ploti {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.latkatwo {
+	width: 1019;
+	position: relative;
+	left: 250px;
+}
