@@ -1,0 +1,289 @@
+.logo {
+	height:144px;
+	width:212px;
+	margin-top:19px;
+	margin-left:0px;
+	margin-top: -15px;
+}
+
+header {
+	position: relative	;
+	right: 250px;
+	left: 250px;
+	width:1018px;
+	height:148px;
+	background-color: white;
+}
+
+main {
+	position: relative;
+	right: 250px;
+	left: 250px;
+	width:1018px;
+	height:3100px;
+	background-color: white;
+}
+
+.foot {
+	width: 1018px;
+	height: 500px;
+	position: relative;
+	right: 250px;
+	left: 250px;
+	box-shadow: 0px 7px 20px 1px #C0C0C0;
+}
+
+body {
+	background: linear-gradient(#F5DEB3, #F08080);
+}
+
+.fbook {
+	position: relative;
+	top: 800px;
+}
+
+.baner {
+	width:1018px;
+	height:320px;
+}
+
+.book {
+	width:205px;
+	height:312px;
+	margin-top:354px;
+}
+
+.textpopular {
+	background-color: FAEADB;
+	padding-left:46px;
+	padding-right:46px;
+	padding-top:26px;
+	padding-bottom:26px;
+	color: 994646;
+	font-family: sans-serif;
+	font-size: 17px;
+	width: 300px;
+	height: 63px;
+}
+
+.spez {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 201px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.spez:hover {
+	background-color: #C0C0C0;
+
+}
+
+.hudoshka {
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 206px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.hudoshka:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.naukova {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 204px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.naukova:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.novinki {
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 199px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.novinki:hover {
+	background-color: #C0C0C0;
+	
+}
+
+
+.detski {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 202px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.detski:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.eBook {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 200px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.eBook:hover {
+	background-color: #C0C0C0;
+	
+}
+
+
+.textone {
+	position: relative;
+	color: black;
+	top: 40px;
+	left: 210px;
+	font-size: 23px;
+}
+
+.spezbaner {
+	position: relative;
+	top: 75px;
+	left: 205px;
+	right: 20px;
+	width: 797;
+}
+
+.textthree {
+	position: relative;
+	left: 210px;
+	top: 80px;
+	margin-right: 250px;
+	font-family: sans-serif;
+	opacity: 0.9;
+}
+
+.citurikrilo {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.zazirniuvikno {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.hastroobskura {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.tvorchiaktspez {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.vidmakspez {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.pershizakon {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.kolhosp {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.klub {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.czi {
+	position: relative;
+	left: 200px;
+	width: 818px;
+	height: 300px;
+}
+
+.latkatwo {
+	width: 1019;
+	position: relative;
+	left: 250px;
+}
