@@ -1,0 +1,433 @@
+.baner:hover {
+	animation-delay: 1000;
+	animation-duration: 4000;
+	animation-timing-function: ease;
+	transform: translate(-1500px,0);
+	opacity: 0;
+} 
+
+.baner {
+	position: absolute;
+	top: 0;
+	width:1018px;
+	height:320px;
+	transition: all 2s ease;
+	opacity: 1;
+}
+
+.reklama {
+	text-align: center;
+	height: 40px;
+	font-size: 40px;
+	font-family: sans-serif;
+	object-fit: contain;
+}
+
+
+.latka{
+	width: 500px;
+	position: relative;
+	left: 250px;
+	right: 250px;
+}
+
+.vhid {
+	position: relative;
+	top: 28px;
+	left: 280px;
+	width: 80px;
+	height: 30px;
+}
+
+.oplata {
+	position: relative;
+	top: 33px;
+	left: 330px;
+	width: 60px;
+	height: 35px;
+}
+
+.bazkoshtovna {
+	position: relative;
+	left: 330px;
+	top: 30px;
+	width: 330px;
+	height: 30px;
+}
+
+.harantiji {
+	position: relative;
+	top: 35px;
+	left: 350px;
+	width: 68px;
+	height: 38px;
+}
+
+
+
+.animate__animated {
+	text-align: center;
+	opacity: 1;
+	position: relative;
+	bottom: 4980px;
+	font-family: sans-serif;
+	font-size: 100px;
+}
+
+.logo {
+	height:144px;
+	width:212px;
+	margin-top:19px;
+	margin-left:0px;
+	margin-top: -60px;
+}
+
+header {
+	box-shadow: 0px 1px 20px 1px #C0C0C0;
+	position: relative	;
+	right: 250px;
+	left: 250px;
+	width:1018px;
+	height:148px;
+	background-color: white;
+}
+
+main {
+	box-shadow: 0px 1px 20px 1px #C0C0C0;
+	position: relative;
+	right: 250px;
+	left: 250px;
+	width:1018px;
+	height:4650px;
+	background-color: white;
+}
+
+.foot {
+	width: 1018px;
+	height: 500px;
+	position: relative;
+	right: 250px;
+	left: 250px;
+	box-shadow: 0px 7px 20px 1px #C0C0C0;
+}
+
+body {
+	background: linear-gradient(#F5DEB3, #F08080);
+}
+
+.fbook {
+	position: relative;
+	top: 800px;
+}
+
+
+.book {
+	width:205px;
+	height:312px;
+	margin-top:354px;
+}
+
+.textpopular {
+	background-color: FAEADB;
+	padding-left:46px;
+	padding-right:46px;
+	padding-top:26px;
+	padding-bottom:26px;
+	color: 994646;
+	font-family: sans-serif;
+	font-size: 17px;
+	width: 300px;
+	height: 63px;
+}
+
+.spez {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 201px;
+	top: 53px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.spez:hover {
+	background-color: #C0C0C0;
+
+}
+
+.hudoshka {
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 206px;
+	top: 53px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.hudoshka:hover {
+	background-color: #C0C0C0;	
+}
+
+.naukova {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 204px;
+	top: 53px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.naukova:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.novinki {
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 199px;
+	top: 53px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.novinki:hover {
+	background-color: #C0C0C0;
+	
+}
+
+
+.detski {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 202px;
+	top: 53px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.detski:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.eBook {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 200px;
+	top: 53px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.eBook:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.klientam {
+
+	font-family: sans-serif;
+	position: relative;
+	left: 212px;
+	margin-top: 300px;
+	font-size: 12px;
+}
+
+.koin {
+	width: 375px;
+	height: 185px;
+	position: relative;
+	top: 0px;
+	left: 200px;
+	margin-right: 30px;
+}
+
+.silkanow {
+	height: 160px;
+	width: 785px;
+	position: relative;
+	left: 190px;
+	top: 72px;
+}
+
+.malenkidruh {
+	position: relative;
+	top: 150px;
+	left: 300px;
+}
+
+.holli {
+	position: relative;
+	top: 150px;
+	left: 400px;
+}
+
+.notatkunenavisti {
+	position: relative;
+	top: 150px;
+	left: 500px;
+}
+
+.partnerov {
+	position: relative;
+	top: 300px;
+	left: 190px;
+}
+
+.blueperiod {
+	position: relative;
+	top: 350px;
+	left: 300px;
+}
+
+.legend {
+	position: relative;
+	top: 350px;
+	left: 400px;
+}
+
+.aristotelidante {
+	position: relative;
+	top: 350px;
+	left: 500px;
+}
+
+.hit {
+	position: relative;
+	top: 520px;
+	left: 190px;
+}
+
+.krilo {
+	position: relative;
+	top: 570px;
+	left: 300px;
+}
+
+.fanat {
+	position: relative;
+	top: 570px;
+	left: 400px;
+}
+
+.killlehko {
+	position: relative;
+	top: 570px;
+	left: 500px;
+}
+
+.komplekt {
+	position: relative;
+	top: 705px;
+	left: 190px;
+}
+
+.tildakomplekt {
+	position: relative;
+	top: 750px;
+	left: 300px;
+}
+
+.dozenkokomplekt {
+	position: relative;
+	top: 750px;
+	left: 400px;
+}
+
+.kristikomplekt {
+	position: relative;
+	top: 750px;
+	left: 500px;
+}
+
+.podarunkovi {
+	position: relative;
+	top: 900px;
+	left: 190px;
+}
+
+.hastro {
+	position: relative;
+	top: 940px;
+	left: 300px;
+}
+
+.tvorchiakt {
+	position: relative;
+	top: 940px;
+	left: 400px;
+}
+
+.vidmakkomplekt {
+	position: relative;
+	top: 940px;
+	left: 500px;
+}
+
+.novinu {
+	font-family: sans-serif;
+	font-size: 18px;
+	position: relative;
+	top: 1050px;
+	left: 190px;
+	background-color: lightgray;
+	margin-right: 210px;
+	margin-left: 30px;
+	opacity: 0.7;
+	padding: 15px;
+	color: black;
+}
+
+.novinu:hover {
+	color: red;
+}
+
+.novuni {
+	position: relative;
+	top: 1070px;
+	width: 790px;
+	height: 710px;
+	margin-left: 220px;
+}

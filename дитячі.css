@@ -1,0 +1,687 @@
+.logo {
+	height:144px;
+	width:212px;
+	margin-top:19px;
+	margin-left:0px;
+	margin-top: -15px;
+}
+
+header {
+	position: relative	;
+	right: 250px;
+	left: 250px;
+	width:1018px;
+	height:148px;
+	background-color: white;
+}
+
+main {
+	position: relative;
+	right: 250px;
+	left: 250px;
+	width:1018px;
+	height:5100px;
+	background-color: white;
+}
+
+body {
+	background: linear-gradient(#F5DEB3, #F08080);
+}
+
+.fbook {
+	position: relative;
+	top: 800px;
+}
+
+.baner {
+	width:1018px;
+	height:320px;
+}
+
+.book {
+	width:205px;
+	height:312px;
+	margin-top:354px;
+}
+
+.textpopular {
+	background-color: FAEADB;
+	padding-left:46px;
+	padding-right:46px;
+	padding-top:26px;
+	padding-bottom:26px;
+	color: 994646;
+	font-family: sans-serif;
+	font-size: 17px;
+	width: 300px;
+	height: 63px;
+}
+
+.spez {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 201px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.spez:hover {
+	background-color: #C0C0C0;
+
+}
+
+.hudoshka {
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 206px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.hudoshka:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.naukova {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 204px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.naukova:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.novinki {
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 199px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.novinki:hover {
+	background-color: #C0C0C0;
+	
+}
+
+
+.detski {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 202px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.detski:hover {
+	background-color: #C0C0C0;
+	
+}
+
+.eBook {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-size: 15px;
+	background-color: lightgray;
+	position: relative;
+	left: 200px;
+	top: 100px;
+	bottom: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+
+.eBook:hover {
+	background-color: #C0C0C0;
+	
+}
+
+
+.detskibaner {
+	position: relative;
+	top: 75px;
+	left: 205px;
+	right: 20px;
+	width: 797;
+}
+
+.textone {
+	position: relative;
+	left: 210px;
+	top: 50px;
+	font-size: 25px;
+}
+
+.textthree {
+	position: relative;
+	left: 210px;
+	top: 80px;
+	margin-right: 250px;
+	font-family: sans-serif;
+	opacity: 0.9;
+}
+
+.foot {
+	width: 1018px;
+	height: 500px;
+	position: relative;
+	right: 250px;
+	left: 250px;
+	box-shadow: 0px 7px 20px 1px #C0C0C0;
+}
+
+.bazaje {
+	position: relative;
+	top: 110px;
+	left: 205px;
+	width: 220px;
+	height: 370spx;
+}
+
+.manifest {
+	position: relative;
+	top: 110px;
+	left: 250px;
+	width: 220px;
+	height: 370spx;
+}
+
+.zvichka {
+	position: relative;
+	top: 110px;
+	left: 290px;
+	width: 220px;
+	height: 370spx;
+}
+
+.zanr {
+	font-family: sans-serif;
+	font-size: 20px;
+	border: solid 2px silver;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-decoration: none;
+	color: black;
+	position: relative;
+	top: 270px;
+	right: 460px;
+}	
+
+.zanr:hover {
+	color: red;
+	border: solid 2px red;
+}
+
+.spisok {
+	font-family: sans-serif;
+	font-size: 20px;
+	border: solid 2px silver;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-decoration: none;
+	color: black;
+	position: relative;
+	top: 270px;
+	right: 455px;
+}
+
+.spisok:hover {
+	color: red;
+	border: solid 2px red;
+}
+
+
+
+.ditianfour {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 300px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.naferme {
+	width: 160px;
+	height: 285px;
+	position: relative;
+	top: 345px;
+	left: 260px;
+}
+
+.vzoo {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 345px;
+	left: 360px;
+}
+
+.vlisi {
+	position: relative;
+	width: 160px;
+	height: 285px;
+	top: 345px;
+	left: 460px;
+}
+
+
+
+.ditiansix {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 400px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.zerniatko {
+	width: 160px;
+	height: 285px;
+	position: relative;
+	top: 445px;
+	left: 260px;
+}
+
+.zerniatkotwo {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 445px;
+	left: 360px;
+}
+
+.lohopedia {
+	position: relative;
+	width: 160px;
+	height: 285px;
+	top: 445px;
+	left: 460px;
+}
+
+
+
+.ditiantwelv {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 500px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.bonz {
+	width: 180px;
+	height: 285px;
+	position: relative;
+	top: 545px;
+	left: 260px;
+}
+
+.mumitrol {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 545px;
+	left: 360px;
+}
+
+.tereodori {
+	position: relative;
+	width: 170px;
+	height: 285px;
+	top: 545px;
+	left: 460px;
+}
+
+
+.ditiantwelv {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 500px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.bonz {
+	width: 180px;
+	height: 285px;
+	position: relative;
+	top: 545px;
+	left: 260px;
+}
+
+.mumitrol {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 545px;
+	left: 360px;
+}
+
+.tereodori {
+	position: relative;
+	width: 170px;
+	height: 285px;
+	top: 545px;
+	left: 460px;
+}
+
+
+
+.ditianottwelv {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 600px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.alisa {
+	width: 180px;
+	height: 285px;
+	position: relative;
+	top: 645px;
+	left: 260px;
+}
+
+.morski {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 645px;
+	left: 360px;
+}
+
+.savzi {
+	position: relative;
+	width: 170px;
+	height: 285px;
+	top: 645px;
+	left: 460px;
+}
+
+
+
+.navcalna {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 700px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+
+
+.morskitwo {
+	width: 180px;
+	height: 285px;
+	position: relative;
+	top: 745px;
+	left: 260px;
+}
+
+.savzitwo {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 745px;
+	left: 360px;
+}
+
+.ukr {
+	position: relative;
+	width: 170px;
+	height: 285px;
+	top: 745px;
+	left: 460px;
+}
+
+
+
+.rozvivaju {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 800px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.zazirniu {
+	width: 160px;
+	height: 285px;
+	position: relative;
+	top: 845px;
+	left: 260px;
+}
+
+.zavdan {
+	width: 180px;
+	height: 280px;
+	position: relative;
+	top: 845px;
+	left: 360px;
+}
+
+.auto {
+	position: relative;
+	width: 170px;
+	height: 285px;
+	top: 845px;
+	left: 460px;
+}
+
+
+
+.kazki {
+	background-color: lightgray;
+	font-family: sans-serif;
+	position: relative;
+	top: 900px;
+	font-size: 22px;
+	font-weight: 150;
+	opacity: 0.8;
+	margin-left: 210px;
+	margin-right: 20px;
+	padding: 13px;
+	padding-left: 35px;
+}
+
+.tildatwo {
+	width: 160px;
+	height: 285px;
+	position: relative;
+	top: 945px;
+	left: 260px;
+}
+
+.komplekttilda {
+	width: 160px;
+	height: 280px;
+	position: relative;
+	top: 945px;
+	left: 360px;
+}
+
+.tildathree {
+	position: relative;
+	width: 160px;
+	height: 285px;
+	top: 945px;
+	left: 460px;
+}
+
+.textstranici {
+	position: relative;
+	top: 1200px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 20px;
+	opacity: 0.6;
+}
+
+.textstranicitwo {
+	position: relative;
+	top: 1150px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+.textstranicithree {
+	position: relative;
+	top: 1130px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 20px;
+	opacity: 0.6;
+}
+
+.textstranicifour {
+	position: relative;
+	top: 1100px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+.bigspisok {
+	position: relative;
+	top: 1100px;
+	font-family: sans-serif;
+	margin-left: 30px;
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+.textstranicifive {
+	position: relative;
+	top: 1070px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+.textstranicisix {
+	position: relative;
+	top: 1070px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 20px;
+	opacity: 0.6;
+}
+
+.textstraniciseven {
+	position: relative;
+	top: 1060px;
+	font-family: sans-serif;
+	margin-left: 25px;
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+.textik {
+	position: relative;
+	bottom: 200px;
+}
+
+.latkatwo {
+	width: 1019;
+	position: relative;
+	left: 250px;
+}
